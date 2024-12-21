@@ -48,4 +48,3 @@ To install this project, follow these steps:
 
 For any queries, please contact,
     Email: nalluprasad2004@gmail.com
-    Mobile No: 9344069649
